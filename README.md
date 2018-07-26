@@ -1,6 +1,6 @@
 # configuration
 
-Restart the web server as follows 
+Restart the web server as follows   
 ---------------- On SystemD ----------------  
 $ sudo systemctl restart httpd  
 $ sudo systemctl restart apache2  
